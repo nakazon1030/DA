@@ -8,7 +8,9 @@
 8 mainにみんなの集大成ができる
 
 9 fetchしてくる(自分のブランチ)
+git fetch origin main
 10 pull (自分のブランチ)
+git pull origin main
 11　反映される。次の作業へうつる
 
 プロキシ問題については未検証
