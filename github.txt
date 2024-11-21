@@ -6,7 +6,7 @@
 6 marge していく (github)
 7 conflictしたら該当箇所を書き換えていく (github)
 8 mainにみんなの集大成ができる
-
+ こんにちは
 9 mainから各ブランチへmargeする(github)
 10　反映(左下)。次の作業へうつる
 
@@ -15,4 +15,7 @@
 margeがstasckblitz上でできないor不安定
 
 
-さのなんなのさ
+
+さのなのさ
+
+
